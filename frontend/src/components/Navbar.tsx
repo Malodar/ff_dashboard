@@ -13,6 +13,9 @@ function Navbar() {
           <Link to='/contacts'>
             <li className='ml-10 text-sm uppercase hover:border-b border-gray-700'>Contacts</li>
           </Link>
+          <Link to='/profile'>
+            <li className='ml-10 text-sm uppercase hover:border-b border-gray-700'>Profile</li>
+          </Link>
         </ul>
       </div>
     </div>
