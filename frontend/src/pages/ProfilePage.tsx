@@ -2,7 +2,9 @@ import React from 'react'
 
 function ProfilePage() {
   return (
-    <div>ProfilePage</div>
+    <div className='p-2 bg-slate-300 w-full h-screen'>
+      ProfilePage
+    </div>
   )
 }
 
